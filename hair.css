@@ -1,0 +1,66 @@
+.nav-item {
+    padding: 0 10px;
+    font-family: 'Recursive';
+    font-weight:500;
+}
+.navbar-brand {
+    font-family: 'Recursive';
+}
+.text {
+    text-align: center;
+    margin: 20px auto;
+    font-family: 'Recursive';
+}
+.carousel-caption {
+    font-family: 'Recursive';
+    position:absolute;
+    left: 0;
+    width: 50%;
+    top: 25%;
+    margin-left: 10%;
+    text-align: left;
+    color: black;
+}
+
+#pw {
+    width: 50%;
+    margin-top:10px;
+}
+
+.pw2{
+    width: 50%;
+}
+
+button {
+    font-family: 'Recursive'; 
+    font-size: 13px;
+    width: 100px;
+    height: 40px;
+    background-color: rgb(165, 133, 5);
+    border: none;
+    outline: none;
+    color: rgb(250, 232, 232);
+    border-radius: 5%;
+    margin-top: 10px;
+}
+
+.wl{
+    font-size:300%;
+    font-weight: 700;
+    min-width: 30px;
+    max-width: 300%;
+}
+
+.oc {
+    font-size: 450%;
+    font-weight: 800;
+    min-width: 100px;
+    max-width: 450%;
+}
+.boldT{
+    font-size: 40px;
+    font-weight:700;
+}
+#mp {
+    color: rgb(165, 133, 5);
+}
